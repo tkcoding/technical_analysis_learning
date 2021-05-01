@@ -1,4 +1,4 @@
-# technical_analysis_learning
+# Technical Analysis / Modelling for Shareprice and Crypto
 Technical analysis learning using candlestick for stock price / Cryptocurrency
 ```
 Section 1: How to use plotly library to produce candlestick pattern and volume for analysis
