@@ -1,5 +1,6 @@
 appnope==0.1.2
 backcall==0.2.0
+binance-connector==1.7.0
 certifi==2021.10.8
 charset-normalizer==2.0.7
 cycler==0.11.0
