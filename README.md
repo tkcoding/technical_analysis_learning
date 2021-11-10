@@ -2,7 +2,7 @@
 Technical analysis learning using candlestick for stock price / Cryptocurrency
 This repo will be created for the use of analysis and charting by developer own self.
 
-## Analysis 
+## Analysis
 
 ```
 Section 1: How to use plotly library to produce candlestick pattern and volume for analysis
@@ -25,4 +25,6 @@ Section 2: Plotly comparison between two different crypto charting analysis
 Kernel > change kernel > technical_analysis_env.
 4. Have fun
 
+## Important
+If you are in country where there's a ban to binance website , you will need to connect to VPN in order to access to binance API or else connection will be timeout.
 ## Author working on django website to keep track of own stock,crypto portfolio
