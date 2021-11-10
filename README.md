@@ -17,4 +17,12 @@ Section 2: Plotly comparison between two different crypto charting analysis
 ![btcdoge_price](img/plotlyBTCDOGE_comp.png)
 
 
-## Link to website for viewing and keeping track between share and crypto currency
+## Steps to run:
+1. shell script running , source installations.sh , there will be a jupyter notebook spawn at the end of the script.
+2. virtual env will be created and script will link the virtual environment to ipykernel.
+2. Start Technical Analysis Learning using Python.ipynb
+3. Ensure notebook changes kernel to technical_analysis_env in jupyter notebook by going.
+Kernel > change kernel > technical_analysis_env.
+4. Have fun
+
+## Author working on django website to keep track of own stock,crypto portfolio
