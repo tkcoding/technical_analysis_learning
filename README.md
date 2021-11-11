@@ -27,4 +27,5 @@ Kernel > change kernel > technical_analysis_env.
 
 ## Important
 If you are in country where there's a ban to binance website , you will need to connect to VPN in order to access to binance API or else connection will be timeout.
+
 ## Author working on django website to keep track of own stock,crypto portfolio
